@@ -16,10 +16,10 @@
 </br>
 </br>
 </br>
-![1](/prevImg/1.png)
+![1](https://github.com/clutchJoe/clutch-NBA--native/blob/master/prevImg/1.PNG)
 _<center>明亮模式</center>_
 
-![2](/prevImg/2.png)
+![2](https://github.com/clutchJoe/clutch-NBA--native/blob/master/prevImg/2.PNG)
 _<center>黑暗模式</center>_
 
 ## 嵌入视频
@@ -28,4 +28,4 @@ _<center>黑暗模式</center>_
 
 在页面中嵌入 YouTube 视频，通过将视频链接复制到[onelineplayer](https://onelineplayer.com/ "onelineplayer")上，他就会返回一对`iframe`标签，将其复制粘贴到 HTML 文档上即可。你甚至可以设置播放器上的控件、视窗大小、自动播放等等。
 
-![3](./prevImg/3.png)
+![3](https://github.com/clutchJoe/clutch-NBA--native/blob/master/prevImg/3.PNG)
